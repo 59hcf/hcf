@@ -1,2 +1,3 @@
 div[id="dispFilteredList_transfer"] label[class="css-radio-label menu-iterator-item"] {display:none;}
-div[id="dispFilteredList_transfer"] label[title~=Transfer] {display:block;}
+div[id="dispFilteredList_transfer"] label[title^=Transfer] {display:block;}
+div[id="dispFilteredList_transfer"] label[title="Transferred To 3rd Party"] {display:none;}

@@ -1,2 +1,4 @@
 div[id="dispFilteredList_transfer"] label[class="css-radio-label menu-iterator-item"] {display:none;}
-div[id="dispFilteredList_transfer"] label[title="Transfer To Aliera"] {display:block;}
+div[id="dispFilteredList_transfer"] label[title="Transferred To Aliera"] {display:block;}
+div[id="dispFilteredList_transfer"] label[title="Transferred"] {display:block;}
+div[id="dispFilteredList_transfer"] label[title="Transfer External"] {display:block;}
